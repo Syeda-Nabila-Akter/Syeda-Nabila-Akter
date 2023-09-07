@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a project named **AI Personal Trainer**
 
-- 📫 How to reach me **nabilamoumy@gmail.com**
+- 📫 Reach me via email **nabilamoumy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
