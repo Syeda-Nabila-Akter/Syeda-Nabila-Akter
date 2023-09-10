@@ -1,8 +1,6 @@
 <h2 align="center">Hi 👋, I'm Syeda Nabila Akter</h2>
 <h3 align="center">Exploring the Data Science and Machine Learning Galaxy 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syeda-nabila-akter&label=Profile%20views&color=0e75b6&style=flat" alt="syeda-nabila-akter" /> </p>
-
 - 🔭 I’m currently working on a project named **AI Personal Trainer**
 
 - 📫 Reach me via email **nabilamoumy@gmail.com**
