@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Syeda Nabila Akter</h2>
 <h3 align="center">Exploring the Data Science and Machine Learning Galaxy 🚀</h3>
 
-- 🔭 I’m currently working on a project named **AI Personal Trainer**
+- 🔭 I’m currently working on project named **Face Mask Detection**. Link: https://github.com/Syeda-Nabila-Akter/Face-mask_detection-CNN-Keras
 
 - 📫 Reach me via email **nabilamoumy@gmail.com**
 
